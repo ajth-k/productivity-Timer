@@ -1,0 +1,19 @@
+QPushButton
+{
+    background-color:#20242B;
+    border-width: 0px;
+
+    border-radius: 100px;
+    border-color: black;
+    padding: 4px;
+    font: 10pt "Ubuntu";
+    outline:0;
+    color:white;
+    font-size:30px;
+}
+QPushButton:hover{
+    background-color:#30242B;
+}
+
+
+
